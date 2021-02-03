@@ -1,4 +1,4 @@
-package JavaPrimalityTest;
+package Java.JavaPrimalityTest;
 
 import java.math.BigInteger;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package JavaInterface;
+package Java.JavaInterface;
 
 class MyCalculator implements AdvancedArithmetic{
     @Override

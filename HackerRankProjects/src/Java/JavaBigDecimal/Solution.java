@@ -1,7 +1,6 @@
-package JavaBigDecimal;
+package Java.JavaBigDecimal;
 
 import java.math.BigDecimal;
-import java.sql.Array;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
